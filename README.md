@@ -78,6 +78,6 @@ I am a passionate **Electronics and Communication Engineering** student at **NIT
 
 ## 🤝 Let's Connect!
 
-* 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* 📧 **Email:** `your.email@example.com`
+* 💼 **LinkedIn:** [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sakshi-sharma-52a704276/))
+* 📧 **Email:** `sakshisharmaofficial13@gmail.com `
 * 🛠️ **Open Source:** Always open to collaborating on innovative C++, MERN/Next.js, or hardware-focused projects!
