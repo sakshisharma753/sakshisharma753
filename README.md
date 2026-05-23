@@ -59,22 +59,18 @@ I am a passionate **Electronics and Communication Engineering** student at **NIT
 
 ---
 
-## 📈 Git Stats
+
+
+## 📈 Git Activity
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=catppuccin_mocha&hide_border=true" alt="Sakshi's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Sakshi's Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshisharma753&theme=react-dark&hide_border=true" width="100%" alt="Sakshi's Contribution Graph" />
 </div>
 
+
+
 ---
+
 
 ## 🤝 Let's Connect!
 
